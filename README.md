@@ -8,7 +8,7 @@
 
 ### `computer science • data • ai • cloud • cybersecurity`
 
-<img src="assets/coder-girl.png" width="420" alt="Dark-skinned Black girl coding at a multi-monitor setup"/>
+
 
 ```text
 ╭──────────────────────────────────────╮
