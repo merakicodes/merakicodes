@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="./assets/coder-girl.png" width="500" alt="Black girl coding illustration">
+<img src="giphy.gif" width="500" alt="Code">
 
 <br><br>
 
