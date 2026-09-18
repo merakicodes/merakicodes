@@ -1,20 +1,18 @@
 <!-- ====================================================== -->
-
 <!--                  MERAKI CODES PROFILE                  -->
-
 <!-- ====================================================== -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=header&color=0:0d1117,45:3a1f32,78:9e3f70,100:f7a8c9" />
 
-Meraki Codes
+# Meraki Codes
 
-Computer Science Student · Data · AI · Cloud · Cybersecurity
+**Computer Science Student · Data · AI · Cloud · Cybersecurity**
 
 <br>
 
-<img src="./assets/coder-girl.png" width="520" alt="Black girl coding illustration">
+<img src="./assets/coder-girl.png" width="500" alt="Black girl coding illustration">
 
 <br><br>
 
@@ -27,17 +25,39 @@ Computer Science Student · Data · AI · Cloud · Cybersecurity
 
 </div>
 
-whoami
 
-I'm Ashlee, a Computer Science student who enjoys learning by building.
+<p align="center">
+────────────୨ৎ────────────
+</p>
 
-I'm interested in data analytics, artificial intelligence, cloud computing, data engineering, cybersecurity, and software development. I use this GitHub to document the projects and technical experiments I build as I learn.
 
-tech
+## `whoami`
+
+I'm **Ashlee**, a Computer Science student who enjoys learning by building.
+
+I'm interested in **data analytics, artificial intelligence, cloud computing, data engineering, cybersecurity, and software development**.
+
+I use this GitHub to document the projects and technical experiments I build as I continue developing my skills.
+
+
+<p align="center">
+────────────୨ৎ────────────
+</p>
+
+
+## `tech stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,postgres,mongodb,git,github,vscode,visualstudio,figma&perline=7&theme=dark" alt="Tech stack icons" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark" />
+
+<br><br>
+
+### Data + Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
 
 <br><br>
 
@@ -46,59 +66,106 @@ tech
 <img src="https://img.shields.io/badge/NumPy-d45b93?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-b84279?style=flat&logo=powerbi&logoColor=white" />
 
+<br><br>
+
+### Tools + Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Azure-ff8fbd?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-e875a7?style=flat&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-b84279?style=flat&logo=hackthebox&logoColor=white" />
+
 </div>
 
-<br>
 
-Currently exploring: Azure · Databricks · Cloud/Data Engineering · Cybersecurity
+<p align="center">
+────────────୨ৎ────────────
+</p>
 
-featured project
+
+## `featured project`
 
 <div align="center">
 
-Pfizer Document Intelligence Chatbot
+### Pfizer Document Intelligence Chatbot
 
-OCR · Semantic Search · RAG · PDF Question Answering
-
-An AI-powered document intelligence project that extracts information from PDFs, retrieves relevant content, and answers questions based on the uploaded documents.
+**OCR · Semantic Search · RAG · PDF Question Answering**
 
 <br>
 
+An AI-powered document intelligence chatbot that extracts information from PDF documents, retrieves relevant content, and answers questions based on the uploaded material.
+
+<br><br>
+
+**Built with**
+
+<img src="https://img.shields.io/badge/Python-ff8fbd?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OCR-e875a7?style=flat" />
+<img src="https://img.shields.io/badge/RAG-d45b93?style=flat" />
+<img src="https://img.shields.io/badge/FAISS-b84279?style=flat" />
+<img src="https://img.shields.io/badge/AI-993d70?style=flat" />
+
+<br><br>
+
 <a href="https://github.com/merakicodes/pfizer-document-intelligence-chatbot">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-ff8fbd?style=for-the-badge&logo=github&logoColor=white" alt="View Pfizer project">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-ff8fbd?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-github activity
+
+<p align="center">
+────────────୨ৎ────────────
+</p>
+
+
+## `github activity`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=merakicodes&hide_border=true&background=0D1117&ring=FF8FBD&fire=F58AB6&currStreakLabel=FF8FBD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=merakicodes&hide_border=true&background=0D1117&ring=FF8FBD&fire=F58AB6&currStreakLabel=FF8FBD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=merakicodes&bg_color=0d1117&color=c9d1d9&line=ff8fbd&point=f7a8c9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=merakicodes&bg_color=0d1117&color=c9d1d9&line=ff8fbd&point=f7a8c9&area=true&hide_border=true" />
 
 </div>
 
-currently
 
+<p align="center">
+────────────୨ৎ────────────
+</p>
+
+
+## `currently`
+
+```text
 🌱 learning      → cloud + data engineering
 📊 building      → data projects
 🤖 exploring     → artificial intelligence
 🛡️ practicing    → cybersecurity
 📱 creating      → personal apps
+```
+
+<p align="center">
+────────────୨ৎ────────────
+</p>
+
 
 <div align="center">
 
-let's build something ♡
+### `let's build something ♡`
 
-<img src="https://komarev.com/ghpvc/?username=merakicodes&label=PROFILE+VIEWS&color=ff8fbd&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=merakicodes&label=PROFILE+VIEWS&color=ff8fbd&style=flat" />
 
 <br><br>
 
-code with curiosity · build with intention
+`code with curiosity · build with intention`
+
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0d1117,45:3a1f32,78:9e3f70,100:f7a8c9" />
 
